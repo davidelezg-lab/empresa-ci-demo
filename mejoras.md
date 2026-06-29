@@ -4,5 +4,5 @@
 
 \- Añadir pipeline
 
-\- Evitar push directo a main
+\- Evitar push directo a main.
 
