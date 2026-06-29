@@ -1,1 +1,1 @@
-console.log("Versión 1");cambio directo
+console.log("Versión B");
