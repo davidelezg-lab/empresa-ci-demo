@@ -1,1 +1,1 @@
-A
+console.log("Version B");
