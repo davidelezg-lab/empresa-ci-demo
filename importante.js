@@ -1,1 +1,1 @@
-trabajo crítico
+"trabajo critico" 
