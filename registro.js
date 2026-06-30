@@ -1,1 +1,1 @@
-console.log("Registro v1");
+console.log("Registro inicial v1");
